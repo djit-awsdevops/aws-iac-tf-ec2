@@ -1,1 +1,0 @@
-## EC2 main terraform code
